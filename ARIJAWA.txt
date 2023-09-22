@@ -1,0 +1,90 @@
+fun
+package org.kotlinlang.play         // 1
+
+fun main() {                        // 2
+    println("Hello, World!")        // 3
+}
+2.Menentukan fungsi
+fun main () {
+println("Hello, world!")
+}
+
+3.dua pernyataan dalam isi fungsi.
+fun main() {
+    println("Hello, Android!")
+    println("Hello, Android!")
+}
+
+4. kode berikut ke dalam Kotlin Playground dan jalankan programnya
+fun main() {
+    println("Today is sunny!)
+}
+
+5.Tambahkan tanda kutip penutup setelah tanda seru, sebelum tanda kurung penutup.
+fun main() {
+    println("Today is sunny!")
+}
+
+6.kode dalam program ini dan menebak output-nya (tanpa menjalankannya di Kotlin Playground)?
+fun main() {
+    println("1")
+    println("2")
+    println("3")
+}
+
+7.otlin Playground untuk membuat program yang menampilkan pesan
+fun main() {
+    println("Tuesday")
+    println("Thursday")
+    println("Wednesday")
+    println("Friday")
+    println("Monday")
+}
+
+8.Perbaiki error dalam program ini sehingga program tersebut menghasilkan output yang diinginkan.
+fun main() {
+    println("Tomorrow is rainy")
+
+9.Perbaiki error dalam program ini sehingga program tersebut menghasilkan output yang diinginkan
+fun main() {
+    printLine("There is a chance of snow")
+}
+
+10.Perbaiki error dalam program ini sehingga program tersebut menghasilkan output yang diinginkan.
+fun main() {
+    println("Cloudy") println("Partly Cloudy") println("Windy")
+}
+
+11.perbaiki eror
+fun main() (
+    println("How's the weather today?")
+)
+
+DASAR DASAR KOLTIN
+
+Program ini menampilkan cuaca di berbagai kota. Data tersebut mencakup nama kota, suhu tertinggi dan terendah untuk hari tersebut, serta kemungkinan turunnya hujan.
+
+
+fun main() {
+    println("City: Ankara")
+    println("Low temperature: 27, High temperature: 31")
+    println("Chance of rain: 82%")
+    println()
+
+    println("City: Tokyo")
+    println("Low temperature: 32, High temperature: 36")
+    println("Chance of rain: 10%")
+    println()
+
+    println("City: Cape Town")
+    println("Low temperature: 59, High temperature: 64")
+    println("Chance of rain: 2%")
+    println()
+
+    println("City: Guatemala City")
+    println("Low temperature: 50, High temperature: 55")
+    println("Chance of rain: 7%")
+    println()
+}
+
+
